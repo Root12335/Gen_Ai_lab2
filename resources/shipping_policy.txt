@@ -1,0 +1,7 @@
+Shipping Policy
+================
+1) Standard shipping takes 3 to 5 business days.
+2) Express shipping takes 1 to 2 business days.
+3) Free standard shipping is available for orders above $75.
+4) International shipping currently supports Egypt, Saudi Arabia, and UAE.
+5) Orders are processed Monday to Friday, excluding public holidays.

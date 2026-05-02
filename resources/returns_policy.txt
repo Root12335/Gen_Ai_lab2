@@ -1,0 +1,7 @@
+Returns Policy
+==============
+1) Products can be returned within 14 days from delivery date.
+2) Items must be unused and in original packaging.
+3) Refunds are processed within 5 to 7 business days after inspection.
+4) Shipping fees are non-refundable unless the item is defective.
+5) Damaged or wrong products must be reported within 48 hours of delivery.
